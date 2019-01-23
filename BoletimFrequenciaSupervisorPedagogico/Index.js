@@ -1,7 +1,7 @@
 ﻿jQuery(document).ready(function ($) {
 
 });
-
+ 
 function validar(request) {
 
     var valido = true;
